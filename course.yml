@@ -1,11 +1,13 @@
-title                : Test SQL
-instructors          :
- - filip.schouwenaars@gmail.com
- - rv2e@icloud.com
- - ludo@datacamp.com
- - michael@datacamp.com
-description          : Course to test SQL exercises
-difficulty_level     : 1
-time_needed          : 1 hour
-programming_language : sql
-from                 : 'postgresql-base-prod:22'
+title: Test SQL
+instructors:
+- filip.schouwenaars@gmail.com
+- rv2e@icloud.com
+- ludo@datacamp.com
+- michael@datacamp.com
+description: Course to test SQL exercises
+difficulty_level: 1
+time_needed: 1 hour
+programming_language: sql
+from: postgresql-base-prod:22
+datasets:
+  dvdrental.zip: Dvdrental
